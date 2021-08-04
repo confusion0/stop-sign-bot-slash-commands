@@ -1,0 +1,7 @@
+{
+    "token": "ODIzNTY4NzI2MzcyMjUzNzE2.YFiuJQ.ElpQXNRgsETO6tTWnc8Y9VtVMhw",
+    "mongooseConnectionStringKeyv": "mongodb://xsadme:lmfao888@cluster0-shard-00-00.upphd.mongodb.net:27017,cluster0-shard-00-01.upphd.mongodb.net:27017,cluster0-shard-00-02.upphd.mongodb.net:27017/MyFirstDatabase?ssl=true&replicaSet=atlas-9eozlm-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "mongooseConnectionString": "mongodb+srv://xsadme:lmfao888@cluster0.upphd.mongodb.net/MySecondDatabase?retryWrites=true&w=majority",
+    "everyoneMention": false,
+    "hostedBy": true
+}
