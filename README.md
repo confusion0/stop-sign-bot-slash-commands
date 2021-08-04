@@ -32,7 +32,8 @@ Reaction Roles    -> Advanced reaction roles
 
 ## Links
 - [Vote](https://top.gg/bot/823568726372253716/vote)
-- [Source](https://github.com/confusion0/stop-sign)
+- [Stop-Sign-Bot](https://github.com/confusion0/stop-sign-bot)
+- [Stop-Sign-Slash-Commands](https://github.com/confusion0/stop-sign-bot-slash-commands)
 
 ## Licensing Information
 ```
