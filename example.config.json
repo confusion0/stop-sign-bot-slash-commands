@@ -1,0 +1,11 @@
+{
+    "token": "insert_token_here,
+    "mongooseConnectionStringKeyv": "insert_mongo_keyv_here",
+    "mongooseConnectionString": "insert_mongo_uri_here",
+    "everyoneMention": false,
+    "hostedBy": true,
+    "port": "insert_port",
+    "topggWebhookPassword": "insert_topgg_password",
+    "topggToken": "insert_topgg_token",
+    "topggWebhookLink": "insert_topgg_webhook"
+}
