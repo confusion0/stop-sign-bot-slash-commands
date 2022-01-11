@@ -30,7 +30,7 @@ Note: Server Admins have full control and responsibility of guild data collectio
 
 - ``<argument>`` - This argument is required
 - ``[argument]`` - This argument is not required
-- ``{argument}`` - This argument is required while using certain subcommands of slash commands
+- ``{argument}`` - This argument is required while using certain subcommands of Stop Sign's slash commands
 
 ### Contact Information
 
