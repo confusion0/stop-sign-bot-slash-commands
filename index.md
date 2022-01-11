@@ -4,7 +4,6 @@ layout: template
 filename: index
 --- 
 
-<!DOCTYPEhtml>
 <html>
 <body>
   
