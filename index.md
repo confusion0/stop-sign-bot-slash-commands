@@ -1,3 +1,9 @@
+---
+title: Stop Sign Documentation
+layout: template
+filename: index
+--- 
+
 ## Stop Sign Documentation
 
 This page will help you get started with the Stop Sign Discord bot.
