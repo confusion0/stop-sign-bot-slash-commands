@@ -4,17 +4,11 @@ layout: template
 filename: index
 --- 
 
-<html>
-<body>
-  
 <details closed>
 <summary>Plugins</summary>
 <br>
 [alt-identifier](https://confusion0.github.io/stop-sign-bot-slash-commands/)
 </details>
-  
-</body>
-</html>
 
 ## Stop Sign Documentation
 
