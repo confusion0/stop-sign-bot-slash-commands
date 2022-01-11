@@ -7,7 +7,7 @@ filename: index
 <html>
 <body>
   
-<details open>
+<details closed>
 <summary>Plugins</summary>
 <br>
 [alt-identifier](https://confusion0.github.io/stop-sign-bot-slash-commands/)
