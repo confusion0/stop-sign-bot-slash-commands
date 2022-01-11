@@ -4,12 +4,6 @@ layout: template
 filename: index
 --- 
 
-<details closed>
-<summary>Plugins</summary>
-<br>
-[alt-identifier](https://confusion0.github.io/stop-sign-bot-slash-commands/)
-</details>
-
 ## Stop Sign Documentation
 
 This page will help you get started with the Stop Sign Discord bot.
