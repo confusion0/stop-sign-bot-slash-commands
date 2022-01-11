@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Stop Sign Documentation
 
-You can use the [editor on GitHub](https://github.com/confusion0/stop-sign-bot-slash-commands/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This page will help you get started with the Stop Sign Discord bot.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Important Links
 
-### Markdown
+- [Support Server](https://discord.gg/e4fxq8vcfm)
+- [Website](https://stopsign.glitch.me/)
+- [Vote](https://top.gg/bot/823568726372253716/vote)
+- [Stop-Sign-Bot](https://github.com/confusion0/stop-sign-bot)
+- [Stop-Sign-Slash-Commands](https://github.com/confusion0/stop-sign-slash-commands)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What is Stop Sign
 
-```markdown
-Syntax highlighted code block
+Stop Sign is an application that was made for Discord moderation in guilds and servers. This bot implements AI technology into its server moderation plugins and has a large variety of customizable auto-mods. This documentation will teach you everything you need to know about configuring Stop Sign. 
 
-# Header 1
-## Header 2
-### Header 3
+### Privacy and User Agreement 
 
-- Bulleted
-- List
+By being in a guild with Stop Sign, who will be referred to as an "application" or "bot", you are giving your consent to have your user ID potentially stored in a database. By inviting Stop Sign to your guild, you consent to have server statistics and the guild ID stored in a database. We may also store user data including but not limited to messages and emojis.
+Any data stored by Stop Sign is used only for informational purposes and for operating server plugins that you may or may not enable for your guild. This data will not be disclosed and you have the option to delete any data that you do not want to be recorded by using slash commands that configure certain plugins and by contacting the [developer](#Contact Information)
 
-1. Numbered
-2. List
+### Other Information
 
-**Bold** and _Italic_ and `Code` text
+- ``<argument>`` - This argument is required
+- ``[argument]`` - This argument is not required
+- ``{argument}`` - This argument is required while using certain subcommands of slash commands
 
-[Link](url) and ![Image](src)
-```
+### Contact Information
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/confusion0/stop-sign-bot-slash-commands/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+My Discord username is confusion#8059.
+You can find me at the [support server](https://discord.gg/e4fxq8vcfm) for Stop Sign.
