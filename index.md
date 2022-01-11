@@ -9,7 +9,7 @@ filename: index
 <body>
   
 <details open>
-<summary>Plugins?</summary>
+<summary>Plugins</summary>
 <br>
 [alt-identifier](https://confusion0.github.io/stop-sign-bot-slash-commands/)
 </details>
