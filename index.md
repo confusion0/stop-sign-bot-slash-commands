@@ -2,14 +2,20 @@
 title: Stop Sign Documentation
 layout: template
 filename: index
-permalink: introduction
 --- 
 
+<!DOCTYPEhtml>
+<html>
+<body>
+  
 <details open>
 <summary>Plugins?</summary>
 <br>
 [alt-identifier](https://confusion0.github.io/stop-sign-bot-slash-commands/)
 </details>
+  
+</body>
+</html>
 
 ## Stop Sign Documentation
 
