@@ -1,10 +1,10 @@
 :root {
-  --main-color: #f54254;
-  --background: #1d1d1e;
-  --secondary: #262626;
-  --link: #f54254;
-  --text-color: #fff;
-  --secondary-text-color: #dcdcdc;
+  --main-color: #159957;
+  --background: #fff;
+  --secondary: #159957;
+  --link: #159957;
+  --text-color: #000000;
+  --secondary-text-color: #159957;
 }
 
 /* scroll bar */
