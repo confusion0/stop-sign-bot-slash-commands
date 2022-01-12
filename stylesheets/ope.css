@@ -1,3 +1,15 @@
+:root {
+  --bot: #00b9ff;
+  --alternate-bot-text-color: #00b9ff;
+  --main-color: #00b9ff;
+  --background: #1d1d1e;
+  --secondary: #00b9ff;
+  --link: #00b9ff;
+  --text-color: #fff;
+  --secondary-text-color: #00b9ff;
+  --premium: #fdee2f;
+}
+
 /* accordion */
 
 * {
