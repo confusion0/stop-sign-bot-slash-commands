@@ -10,11 +10,43 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
     <link rel="stylesheet" href="stylesheets/ope.css">
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i,600,600i"
+    >
+    <link rel="stylesheet" href="fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="fonts/line-awesome.min.css">
+    <link rel="stylesheet" href="fonts/simple-line-icons.min.css">
+    <link
+      href="https://fonts.googleapis.com/css2?family=Kanit&display=swap"
+      rel="stylesheet"
+    >
+    <link
+      href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"
+      rel="stylesheet"
+    >
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css"
+    >
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Alfa+Slab+One"
+    >
   </head>
   <body>
     <section class="page-header">
       <h1 class="project-name">Stop Sign Documentation</h1>
       <h2 class="project-tagline"></h2>
+      
+      <a href="https://github.com/confusion0/stop-sign-bot-slash-commands" class="btn" style="color: #ffffff">View on GitHub</a>
+      <a href="https://discord.com/api/oauth2/authorize?client_id=823568726372253716&permissions=8&scope=applications.commands%20bot" class="btn" style="color: #ffffff">Invite</a>
+      <a href="https://discord.gg/e4fxq8vCfM" class="btn" style="color: #ffffff">Support Server</a>
+      <a href="https://stopsign.glitch.me/" class="btn" style="color: #ffffff">Website</a>
+    </section>
+    
+    <section class="main-content">
       
       <div class="accordion">
       <div class="accordion-item">
@@ -25,21 +57,12 @@
         <div class="accordion-content">
           <p>
             {% for page in site.pages %}
-                <a href={{ page.filename }} class="btn" style="color: #ffffff">{{ page.title }}</a>
+                <a href={{ page.filename }} class="btn">{{ page.title }}</a>
             {% endfor %}
           </p>
         </div>
       </div>
       </div>
-      <br>
-      <br>
-      <a href="https://github.com/confusion0/stop-sign-bot-slash-commands" class="btn" style="color: #ffffff">View on GitHub</a>
-      <a href="https://discord.com/api/oauth2/authorize?client_id=823568726372253716&permissions=8&scope=applications.commands%20bot" class="btn" style="color: #ffffff">Invite</a>
-      <a href="https://discord.gg/e4fxq8vCfM" class="btn" style="color: #ffffff">Support Server</a>
-      <a href="https://stopsign.glitch.me/" class="btn" style="color: #ffffff">Website</a>
-    </section>
-    
-    <section class="main-content">
       
       {{ content }}
 
