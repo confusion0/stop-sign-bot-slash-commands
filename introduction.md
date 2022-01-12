@@ -8,14 +8,6 @@ filename: introduction
 
 This page will help you get started with the Stop Sign Discord bot.
 
-### Important Links
-
-- [Support Server](https://discord.gg/e4fxq8vcfm)
-- [Website](https://stopsign.glitch.me/)
-- [Vote](https://top.gg/bot/823568726372253716/vote)
-- [Stop-Sign-Bot](https://github.com/confusion0/stop-sign-bot)
-- [Stop-Sign-Slash-Commands](https://github.com/confusion0/stop-sign-slash-commands)
-
 ### What is Stop Sign
 
 Stop Sign is an application that was made for Discord moderation in guilds and servers. This bot implements AI technology into its server moderation plugins and has a large variety of customizable auto-mods. This documentation will teach you everything you need to know about configuring Stop Sign. 
