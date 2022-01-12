@@ -13,9 +13,20 @@
     <section class="page-header">
       <h1 class="project-name">Stop Sign Documentation</h1>
       <h2 class="project-tagline"></h2>
-      {% for page in site.pages %}
-        <a href= {{ page.filename }} class="btn">{{ page.title }}</a>
-      {% endfor %}
+      
+      <div class="accordion-item">
+         <button id="accordion-button" aria-expanded="false">
+           <span class="accordion-title">plugins</span>
+           <span class="icon" aria-hidden="true"></span>
+         </button>
+         <div class="accordion-content">
+           <p>
+             {% for page in site.pages %}
+                <a href= {{ page.filename }} class="btn">{{ page.title }}</a>
+             {% endfor %}
+           </p>
+         </div>
+       </div>
     </section>
     
     <section class="main-content">
