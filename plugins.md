@@ -20,6 +20,8 @@ Command cooldown: ``1 minute``
 | On | Turns the alt-identifier plugin on. | `/alt-identifier On {channel} {time}` 
 | Off | Turns the alt-identifier plugin off. | `/alt-identifier Off` 
 
+---
+
 #### Anti Guild Invites
 This feature purges the server of invites for other guilds.
 
@@ -32,6 +34,8 @@ Command cooldown: ``1 minute``
 | :--- | :--- | :--- 
 | On | Turns the anti-invite plugin on. | `/anti-invite On` 
 | Off | Turns the anti-invite plugin off. | `/anti-invite Off` 
+
+---
 
 #### Anti Phishing Links
 This feature deletes malicious links that are posted on your server.
@@ -46,6 +50,7 @@ Command cooldown: ``1 minute``
 | On | Turns the anti-phish plugin on. | `/anti-phish On` 
 | Off | Turns the anti-phish plugin off. | `/anti-phish Off`
 
+---
 
 #### Anti Raid
 This feature prevents members in your guild from spamming @everyone and @here.
@@ -60,6 +65,7 @@ Command cooldown: ``1 minute``
 | On | Turns the anti-raid plugin on. | `/anti-raid On` 
 | Off | Turns the anti-raid plugin off. | `/anti-raid Off`
 
+---
 
 #### Anti Spam
 This feature prevents members in your guild from spamming text.
@@ -74,6 +80,8 @@ Command cooldown: ``1 minute``
 | On | Turns the anti-spam plugin on. | `/anti-spam on` 
 | Off | Turns the anti-spam plugin off. | `/anti-spam off`
 
+---
+
 #### Automatic Decancer
 This feature will automatically convert usernames that contain cancerous text to normal usernames.
 
@@ -86,6 +94,8 @@ Command cooldown: ``1 minute``
 | :--- | :--- | :--- 
 | On | Turns the auto-decancer plugin on. | `/auto-decancer On` 
 | Off | Turns the auto-decancer plugin off. | `/auto-decancer Off`
+
+---
 
 #### Blacklisted Words
 This feature will automatically delete messages containing text that the guild has blacklisted.
@@ -103,6 +113,8 @@ Command cooldown: ``1 minute``
 | Display | Displays the blacklisted words. | `/blacklisted-words Display` 
 | Punishment | Sets the punishment for saying the blacklisted words. | `/blacklisted-words Punishment` 
 
+---
+
 #### Family Friendly Content
 This feature will automatically delete words that contain bad words.
 
@@ -116,6 +128,8 @@ Command cooldown: ``1 minute``
 | On | Turns the family-friendly plugin on. | `/family-friendly On` 
 | Off | Turns the family-friendly plugin off. | `/family-friendly Off`
 
+---
+
 #### Leveling System
 This feature will allow members to gain experience points while sending messages.
 
@@ -128,6 +142,8 @@ Command cooldown: ``1 minute``
 | :--- | :--- | :--- 
 | On | Turns the leveling system plugin on. | `/leveling On` 
 | Off | Turns the leveling system plugin off. | `/leveling Off`
+
+---
 
 #### Lockdown Channel System
 This feature locks down specific channels.
@@ -144,6 +160,8 @@ Command cooldown: ``1 minute``
 | Delete | Deletes the lockdown channels. | `/lockdown-channels Delete`
 | Display | Displays the lockdown channels. | `/lockdown-channels Display` 
 
+---
+
 #### Mute Role
 This feature configures the mute role.
 
@@ -157,6 +175,8 @@ Command cooldown: ``1 minute``
 | Create | Creates a mute-role. | `/mute-role Create`
 | Set | Sets a mute-role. | `/mute-role Set {role}` 
 | Delete | Deletes the mute-role. | `/mute-role Delete`
+
+---
 
 #### Verification System
 This feature prevents user-botted accounts from entering your guild.
