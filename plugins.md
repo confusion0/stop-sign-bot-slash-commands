@@ -12,7 +12,7 @@ This feature blocks out alternate accounts from your guild.
 
 You can configure the alt-identifier plugin with the slash command called ``/alt-identifier``. This slash command has a series of subcommands. You can see these subcommands in the table below.
 
-Permissions required: ``ADMINISTRATOR``
+Permissions required: ``ADMINISTRATOR`` <br>
 Command cooldown: ``1 minute``
 
 | Name | Description | Usage
@@ -25,7 +25,7 @@ This feature purges the server of invites for other guilds.
 
 You can configure the anti-invite plugin with the slash command called ``/anti-invite``. This slash command has a series of subcommands. You can see these subcommands in the table below.
 
-Permissions required: ``ADMINISTRATOR``
+Permissions required: ``ADMINISTRATOR`` <br>
 Command cooldown: ``1 minute``
 
 | Name | Description | Usage
@@ -38,7 +38,7 @@ This feature deletes malicious links that are posted on your server.
 
 You can configure the anti-phish plugin with the slash command called ``/anti-phish``. This slash command has a series of subcommands. You can see these subcommands in the table below.
 
-Permissions required: ``ADMINISTRATOR``
+Permissions required: ``ADMINISTRATOR`` <br>
 Command cooldown: ``1 minute``
 
 | Name | Description | Usage
@@ -52,7 +52,7 @@ This feature prevents members in your guild from spamming @everyone and @here.
 
 You can configure the anti-raid plugin with the slash command called ``/anti-raid``. This slash command has a series of subcommands. You can see these subcommands in the table below.
 
-Permissions required: ``ADMINISTRATOR``
+Permissions required: ``ADMINISTRATOR`` <br>
 Command cooldown: ``1 minute``
 
 | Name | Description | Usage
@@ -66,7 +66,7 @@ This feature prevents members in your guild from spamming text.
 
 You can configure the anti-spam plugin with the slash command called ``/anti-spam``. This slash command has a series of subcommands. You can see these subcommands in the table below.
 
-Permissions required: ``ADMINISTRATOR``
+Permissions required: ``ADMINISTRATOR`` <br>
 Command cooldown: ``1 minute``
 
 | Name | Description | Usage
@@ -79,7 +79,7 @@ This feature will automatically convert usernames that contain cancerous text to
 
 You can configure the auto-decancer plugin with the slash command called ``/auto-decancer``. This slash command has a series of subcommands. You can see these subcommands in the table below.
 
-Permissions required: ``ADMINISTRATOR``
+Permissions required: ``ADMINISTRATOR`` <br>
 Command cooldown: ``1 minute``
 
 | Name | Description | Usage
@@ -92,7 +92,7 @@ This feature will automatically delete messages containing text that the guild h
 
 You can configure the blacklisted-words plugin with the slash command called ``/blacklisted-words``. This slash command has a series of subcommands. You can see these subcommands in the table below.
 
-Permissions required: ``ADMINISTRATOR``
+Permissions required: ``ADMINISTRATOR`` <br>
 Command cooldown: ``1 minute``
 
 | Name | Description | Usage
@@ -108,7 +108,7 @@ This feature will automatically delete words that contain bad words.
 
 You can configure the family-friendly plugin with the slash command called ``/family-friendly``. This slash command has a series of subcommands. You can see these subcommands in the table below.
 
-Permissions required: ``ADMINISTRATOR``
+Permissions required: ``ADMINISTRATOR`` <br>
 Command cooldown: ``1 minute``
 
 | Name | Description | Usage
@@ -121,7 +121,7 @@ This feature will allow members to gain experience points while sending messages
 
 You can configure the leveling plugin with the slash command called ``/leveling``. This slash command has a series of subcommands. You can see these subcommands in the table below.
 
-Permissions required: ``ADMINISTRATOR``
+Permissions required: ``ADMINISTRATOR`` <br>
 Command cooldown: ``1 minute``
 
 | Name | Description | Usage
@@ -134,7 +134,7 @@ This feature locks down specific channels.
 
 You can configure the lockdown-channels plugin with the slash command called ``/lockdown-channels``. This slash command has a series of subcommands. You can see these subcommands in the table below.
 
-Permissions required: ``ADMINISTRATOR``
+Permissions required: ``ADMINISTRATOR`` <br>
 Command cooldown: ``1 minute``
 
 | Name | Description | Usage
@@ -149,7 +149,7 @@ This feature configures the mute role.
 
 You can configure the mute-role plugin with the slash command called ``/mute-role``. This slash command has a series of subcommands. You can see these subcommands in the table below.
 
-Permissions required: ``ADMINISTRATOR``
+Permissions required: ``ADMINISTRATOR`` <br>
 Command cooldown: ``1 minute``
 
 | Name | Description | Usage
@@ -163,7 +163,7 @@ This feature prevents user-botted accounts from entering your guild.
 
 You can configure the verification plugin with the slash command called ``/verification``. This slash command has a series of subcommands. You can see these subcommands in the table below.
 
-Permissions required: ``ADMINISTRATOR``
+Permissions required: ``ADMINISTRATOR`` <br>
 Command cooldown: ``1 minute``
 
 | Name | Description | Usage
