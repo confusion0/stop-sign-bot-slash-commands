@@ -1,10 +1,10 @@
 :root {
-  --main-color: #159957;
-  --background: #159957;
-  --secondary: #159957;
-  --link: #159957;
-  --text-color: #159957;
-  --secondary-text-color: #159957;
+  --main-color: ##ffffff;
+  --background: #ffffff;
+  --secondary: #ffffff;
+  --link: #ffffff;
+  --text-color: #ffffff;
+  --secondary-text-color: #ffffff;
 }
 
 .footer-dark {
