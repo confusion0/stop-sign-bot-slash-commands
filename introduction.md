@@ -1,5 +1,5 @@
 ---
-title: Stop Sign Documentation
+title: Introduction
 layout: template
 filename: introduction
 ---
