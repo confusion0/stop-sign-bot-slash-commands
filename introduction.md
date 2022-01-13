@@ -8,7 +8,7 @@ filename: introduction
 
 This page will help you get started with the Stop Sign Discord bot.
 
-### What is Stop Sign
+### What is Stop Sign?
 
 Stop Sign is an application that was made for Discord moderation in guilds and servers. This bot implements AI technology into its server moderation plugins and has a large variety of customizable auto-mods. This documentation will teach you everything you need to know about configuring Stop Sign. 
 
