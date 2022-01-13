@@ -8,18 +8,18 @@ filename: plugins
 This page will help you understand how to use and configure plugins.
 
 ## Contents
-+ [Alternate Account Identifier](#alternate-account-identifier)
-+ [Anti Guild Invites](#anti-guild-invites)
-+ [Anti Phishing Links](#anti-phishing-links)
-+ [Anti Raid](#anti-raid)
-+ [Anti Spam](#anti-spam)
-+ [Automatic Decancer](#automatic-decancer)
-+ [Blacklisted Words](#blacklisted-words)
-+ [Family Friendly Content](#family-friendly-content)
-+ [Leveling System](#leveling-system)
-+ [Lockdown Channel System](#lockdown-channel-system)
-+ [Mute Role](#mute-role)
-+ [Verification System](#verification-system)
+* [Alternate Account Identifier](#alternate-account-identifier)
+* [Anti Guild Invites](#anti-guild-invites)
+* [Anti Phishing Links](#anti-phishing-links)
+* [Anti Raid](#anti-raid)
+* [Anti Spam](#anti-spam)
+* [Automatic Decancer](#automatic-decancer)
+* [Blacklisted Words](#blacklisted-words)
+* [Family Friendly Content](#family-friendly-content)
+* [Leveling System](#leveling-system)
+* [Lockdown Channel System](#lockdown-channel-system)
+* [Mute Role](#mute-role)
+* [Verification System](#verification-system)
 
 #### Alternate Account Identifier
 This feature blocks out alternate accounts from your guild.
