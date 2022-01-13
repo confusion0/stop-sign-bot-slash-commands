@@ -15,7 +15,7 @@ Stop Sign is an application that was made for Discord moderation in guilds and s
 ### Privacy and User Agreement 
 
 By being in a guild with Stop Sign, who will be referred to as an "application" or "bot", you are giving your consent to have your user ID potentially stored in a database. By inviting Stop Sign to your guild, you consent to have server statistics and the guild ID stored in a database. We may also store user data including but not limited to messages and emojis. <br>
-Any data stored by Stop Sign is used only for informational purposes and for operating server plugins that you may or may not enable for your guild. This data will not be disclosed and you have the option to delete any data that you do not want to be recorded by using slash commands that configure certain plugins and by contacting the [developer](#Contact Information). <br>
+Any data stored by Stop Sign is used only for informational purposes and for operating server plugins that you may or may not enable for your guild. This data will not be disclosed and you have the option to delete any data that you do not want to be recorded by using slash commands that configure certain plugins and by contacting the [developer](#contact-information). <br>
 Note: Server Admins have full control and responsibility of guild data collections.
 
 ### Other Information
