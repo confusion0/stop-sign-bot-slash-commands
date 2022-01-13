@@ -77,8 +77,8 @@ Command cooldown: ``1 minute``
 
 | Name | Description | Usage
 | :--- | :--- | :--- 
-| On | Turns the anti-spam plugin on. | `/anti-spam on` 
-| Off | Turns the anti-spam plugin off. | `/anti-spam off`
+| On | Turns the anti-spam plugin on. | `/anti-spam On` 
+| Off | Turns the anti-spam plugin off. | `/anti-spam Off`
 
 ---
 
