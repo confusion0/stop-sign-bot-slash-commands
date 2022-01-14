@@ -8,23 +8,23 @@ filename: introduction
 
 This page will help you get started with the Stop Sign Discord bot.
 
-### What is Stop Sign?
+## What is Stop Sign?
 
 Stop Sign is an application that was made for Discord moderation in guilds and servers. This bot implements AI technology into its server moderation plugins and has a large variety of customizable auto-mods. This documentation will teach you everything you need to know about configuring Stop Sign. 
 
-### Privacy and User Agreement 
+## Privacy and User Agreement 
 
 By being in a guild with Stop Sign, who will be referred to as an "application" or "bot", you are giving your consent to have your user ID potentially stored in a database. By inviting Stop Sign to your guild, you consent to have server statistics and the guild ID stored in a database. We may also store user data including but not limited to messages and emojis. <br>
 Any data stored by Stop Sign is used only for informational purposes and for operating server plugins that you may or may not enable for your guild. This data will not be disclosed and you have the option to delete any data that you do not want to be recorded by using slash commands that configure certain plugins and by contacting the [developer](#contact-information). <br>
 Note: Server Admins have full control and responsibility of guild data collections.
 
-### Other Information
+## Other Information
 
 - ``<argument>`` - This argument is required
 - ``[argument]`` - This argument is not required
 - ``{argument}`` - This argument is required while using certain subcommands of slash commands
 
-### Contact Information
+## Contact Information
 
 My Discord username is confusion#8059.
 You can find me at the [support server](https://discord.gg/e4fxq8vcfm) for Stop Sign.
